@@ -88,7 +88,7 @@ const InitialLayout = () => {
           headerBackTitle: 'Edit number',
         }}
       />
-      <Stack.Screen name="(tabs)/chats" options={{ headerShown: false }} />
+      <Stack.Screen name="(tabs)" options={{ headerShown:false }} />
       {/* <Stack.Screen
         name="(modals)/new-chat"
         options={{
